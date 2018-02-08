@@ -1,0 +1,4 @@
+interactions:
+  name: "interactions"
+  urlsuffix: "/interactions/v2/rajks"
+  version: "v3"
